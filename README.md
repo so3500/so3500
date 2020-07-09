@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Languages
+- Java
+- Kotlin
+
+### 📫 How to reach me
+- linkedin: https://www.linkedin.com/in/sungon-lee-b5a60b142/
+- email: dltjddhs@gmail.com
+
 <!--
 **so3500/so3500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
