@@ -5,7 +5,6 @@
 - Kotlin
 
 ### 📫 How to reach me
-- blog: https://bibibim.tistory.com/
 - linkedin: https://www.linkedin.com/in/sungon-lee-b5a60b142/
 - email: dltjddhs@gmail.com
 
